@@ -1,0 +1,7 @@
+name: 'nice_dbt'
+version: '1.0'
+config-version: 2
+
+profile: 'nice_profile'
+
+model-paths: ["models"]

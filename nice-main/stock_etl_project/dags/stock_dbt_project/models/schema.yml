@@ -1,0 +1,7 @@
+version: 2
+
+sources:
+  - name: stock
+    tables:
+      - name: daily_stock
+

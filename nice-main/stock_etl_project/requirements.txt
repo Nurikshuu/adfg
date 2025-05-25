@@ -1,0 +1,9 @@
+requests
+pandas
+sqlalchemy
+psycopg2-binary
+clickhouse-driver
+lightgbm
+matplotlib
+scikit-learn
+joblib
